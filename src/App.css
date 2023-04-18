@@ -1,0 +1,19 @@
+.App {
+  background-image: url("assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.App1 {
+  background-image: url("assets/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: max-content;
+}
+
+.App2 {
+  background-image: url("assets/bg-3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
